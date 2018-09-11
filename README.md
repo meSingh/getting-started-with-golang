@@ -17,6 +17,7 @@ This is a beginners guide to getting started with Golang. When I began to learn 
 This is the list of interesting articles that I've not read yet, but I intend to. They might get added to the master list. 
 
  - [ ] [Golang - Getting Started](https://dev.to/codehakase/golang---getting-started-16c)
+ - [ ] [Debugging Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
  
 
 ### The Reference List
