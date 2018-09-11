@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" align="right" width="130px"/>
 # Getting Started with Golang - WIP
 
 This is a beginners guide to getting started with Golang. When I began to learn Golang, I couldn't find a go-to guide or any proper recommendations, so I decided to do it myself and document everything that I try or learn here also to help others who struggle with the same problem. 
