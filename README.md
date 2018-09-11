@@ -18,6 +18,7 @@ This is the list of interesting articles that I've not read yet, but I intend to
 
  - [ ] [Golang - Getting Started](https://dev.to/codehakase/golang---getting-started-16c)
  - [ ] [Debugging Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
+ - [ ] [First steps in learning Golang](https://coder.today/first-steps-in-learning-golang-d0f3dbb3b6d7)
  
 
 ### The Reference List
