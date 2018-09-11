@@ -24,6 +24,6 @@ This is the list of interesting articles that I've not read yet, but I intend to
 These are some interesting topics that you can read in your spare time. These are more basically some articles/tutorials on different kind of things that will come handy when you start coding in Golang. 
 
 
-- [x] [Go's Declaration Syntax] - If you are like me who has any experience with any other language, go declarations look wired and confusing, but once you understand them, they are not that bad. (https://blog.golang.org/gos-declaration-syntax)
+- [x] [Go's Declaration Syntax](https://blog.golang.org/gos-declaration-syntax) - If you are like me who has any experience with any other language, go declarations look wired and confusing, but once you understand them, they are not that bad. 
 
 
