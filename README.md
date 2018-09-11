@@ -4,7 +4,26 @@ This is a beginners guide to getting started with Golang. When I began to learn 
 
 > Please also note that this is a checklist made by someone who is too new to Golang, so if you have any suggestions or recommendations, please do send me a PR, I would love that. 
 
-[ ] [A Tour of Go](https://tour.golang.org/welcome/1) - This is probably the best way to start learning Golang, I've read several getting started articles that tells you about the basics but having the tuotorial and the ability to try it out side-by-side is unbeatable. 
+
+## Getting Started
+
+ - [ ] [A Tour of Go](https://tour.golang.org/welcome/1) - This is probably the best way to start learning Golang, I've read several getting started articles that tells you about the basics but having the tuotorial and the ability to try it out side-by-side is unbeatable. 
+
+
+
+
+### The Maybe's
+
+This is the list of interesting articles that I've not read yet but I intend to. They might get added to the master list. 
+
+ - [ ] [Golang - Getting Started](https://dev.to/codehakase/golang---getting-started-16c)
+ 
+
+### The Reference List
+
+These the some interested topics that you can read in your spare time. These are more basically some articles/tutorials on different kind of things that will come handy when you actually start coding in Golang. 
+
+
 
 
 
